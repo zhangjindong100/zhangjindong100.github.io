@@ -90,7 +90,9 @@
 
 著作教材：
 
-<font color=blue>《汽车软件开放式系统架构》，机械工业出版社</font><br />
+<font color=blue>[1]《汽车软件开放式系统架构》</font><br />
+<font color=blue>[2]《工业互联网—AI、大数据、人机交互与生态系统》</font><br />
+<font color=blue>[3]《工业互联网—系统建模、架构、通信与网络》</font><br />
 
 获奖情况：
 
