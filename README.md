@@ -7,19 +7,13 @@
 </div>
 
 
-学科专业:
-
-<font color=blue>计算机应用技术</font><br />
+学科专业:<font color=blue>计算机应用技术</font><br />
 
 
-研究方向:
-
-<font color=blue>嵌入式系统，机器视觉，机器学习，及其在无人驾驶汽车、工业等领域的应用</font><br />
+研究方向:<font color=blue>嵌入式系统，机器视觉，机器学习，及其在无人驾驶汽车、工业等领域的应用</font><br />
 
 
-讲授课程：
-
-<font color=blue>嵌入式系统与结构、嵌入式Linux系统分析与应用、传感器技术、微机技术及应用、汽车电子软件编程技术</font><br />
+讲授课程：<font color=blue>嵌入式系统与结构、嵌入式Linux系统分析与应用、传感器技术、微机技术及应用、汽车电子软件编程技术</font><br />
 
 
 工作经历：
@@ -54,45 +48,46 @@
 学术论文：
 
 <font color=blue>国外期刊和国际学术会议上近期发表论文：</font><br />
-<font color=blue>[1] Zhang Jindong*, Xiu Ying. Image stitching based on human visual system and SIFT algorithm, The Visual Computer,2023</font><br />
-<font color=blue>[2] Zhang Jindong*, Zhong Haoting, Curve-based lane estimation model with lightweight attention mechanism, Signal, Image and Video Processing,2023</font><br />
-<font color=blue>[3] Mayuan Zhi, Zhang Jindong*, Qin Guihe, 3D Multi-Object Tracking based on Dual-tracker and D-S Evidence Theory, IEEE Transactions on Intelligent Vehicles,2023</font><br />
-<font color=blue>[4] Jindong Zhang*, Dongyu Pan, Kunpeng Zhang, Jingyi Jin, Yuanzhi Ma and Mai Chen, Underwater single image restoration based on modified Generative Adversarial Net, Signal, Image and Video Processing，2023</font><br />
-<font color=blue>[5] Zhang Jindong*, Li Zhijian, MengWeibin, Jiang Haofeng, Liu Qiangqiang, Wan Yanchen， The PID Algorithm for Multi-vehicles Cruise Control in Platoon. Journal of Information & Computational Science, 2015.</font><br />
-<font color=blue>[6] Zhang Jindong， GaoZhenhai， ZhangXiaolong， LiuLiu， XueYang， WuXingchen， LiYahui， The vehicle cooperative adaptive cruise control algorithm for applying to the ramp，Journal of Computational Information Systems，2014.</font><br />
-<font color=blue>[7] Zhang Jindong，Zhao Guanyu，ZhangXiaolong，GPS data reception and parse in real-time: Vehicle-to-vehicle communication system based on OSEK，Journal of Computational Information Systems，2014.</font><br />
-<font color=blue>[8] XueYang，ZhaoGuanyu，ZhangJindong*，Liu Liu，WuXingchen， LiYahui，An acceleration compensation smoothing approach for communicating in DSRC-based CACC system，Journal of Computational InformationSystems，2014.</font><br />
-<font color=blue>[9] Zhang Jindong，QinGuihe，LiuYe，Speech separation in the vehicle environment based on fastICAalgorithm，Journal of Multimedia，2012.</font><br />
-<font color=blue>[10] Zhang Jindong, GaoZhenhai, Lin Qin. Research and Construction on Simulation Traffic Environment with Inter-car Communication. Advanced Materials Research，2011.</font><br />
-<font color=blue>[11] Zhang Jindong, GaoZhenhai. Research and Design the Primary Two Vehicles Communication System. Advanced Materials Research，Vols. 143-144 (2011):328-332.</font><br />
-<font color=blue>[12] Zhang Jindong, Li Hongjian. Research on Vehicle Lane Keeping Driving Secure Technology Based on Canny-Hough Algorithm. Computer Science Applications and Education，2011.</font><br />
-<font color=blue>[13] Peng-cheng Ding, Jin-dong Zhang*, Yang-hao Zhou, Hong-liang LIU, Xiao Wang, Anti-Collision Warning Algorithm Based on Visual Perception in Front of Vehicle, 2017</font><br />
-<font color=blue>[14] Chao Sun, Jindong Zhang*, Jiajia Lin, Rui Song, Xuan Zang, Xiaohan Liu, Design and implementation of Judge System for Old Man Fall Down, 2017</font><br />
-<font color=blue>[15] Jin-qing Li, Jin-dong Zhang*, Wei-kai Wang, Cheng-liang Liu, Hong-yan Guo, Kuo Zhang. Vehicle Automatic Vertical & Horizontal Parking Trajectory Prediction and Fuzzy Control, 2017</font><br />
-<font color=blue>[16] Liu Dongyang, Zhang Jindong*, Zhang Xiaofeng, Ma Xiaoyu, Kou Yuxin, Detection of Glue Spray on Bottom of Vehicle Based on Machine Vision, 2018</font><br />
-<font color=blue>[17] Peibin Wu, Jindong Zhang*, Yang Liu, Dongqi Han, Yiding Sun, The vehicle audio encryption system based on scrambling thought, 2018</font><br />
-<font color=blue>[18] Yang Wang, Jindong Zhang *, Zengming Zhang, Zifan Liu, Yuejia Song, Qipeng Miao, Lane decision algorithm for active avoidance of intelligent vehicle based on improved back propagation neural network, 2018</font><br />
-<font color=blue>[19] Dongqi Han, Jindong Zhang*, Yang Liu, Peibin Wu, Yiding Sun, Live Video Streaming Authentication for Vehicle Multimedia based on Merkle Tree, 2018·</font><br />
-<font color=blue>[20] Xuelong Yin, Jindong Zhang*, Xinggang Wu, Ju Huang, Yanping Xu, Linyao Zhu, An improved lane departure warning algorithm based on fusion of F-Kalman filter and F-TLC, 2019.</font><br />
-<font color=blue>[21] Yuze Wang, Jindong Zhang*, Jiale Qiao, Sai Gao, Chenhui Yu, A Rear-lamp Recognition System Based on D-S Evidence  Theory, 2019</font><br />
-<font color=blue>[22] Jindong Zhang*, Xuelong Yin, Jing Luan, Tong Liu, An improved vehicle panoramic image generation algorithm, 2019</font><br />
-<font color=blue>[23] Jiale Qiao, Jindong Zhang*, Yuze Wang, Chenhui Yu, Sai Gao, A Multi-sensor Fusion System for Embedded Devices  Considering by Sensor Reliability, 2019</font><br />
-<font color=blue>[24] Yuze Wang, Jindong Zhang*, Jiale Qiao, An Information Entropy-based Method of Evidential Source Separation and Refusion，2020</font><br />
-<font color=blue>[25] Hangtian He, Haiyan Wang, Hao Zhang, Qing Liu, Jindong Zhang*, Research on Location Method of Vehicle Trajectory Based on Intelligent Terminal，2020</font><br />
-<font color=blue>[26] Junshu Zhang，Jindong Zhang*，Botao Chen，Jian Gao，Shanwei Ji，Xiaolong Zhang，Zhaodan Wang，A perspective transformation method based on computer vision，2020</font><br />
-<font color=blue>[27] Dongqi Han，Jindong Zhang*，Yang Liu，Peibin Wu，Yiding Sun，Real-time Feedback Watermarking Authentication Scheme for Streaming Media, 2020</font><br />
-<font color=blue>[28] Yang Liu，Jindong Zhang*，Dongqi Han，Peibin Wu，Yiding Sun，Young Shik Moon，A multidimensional chaotic image encryption algorithm based on the region of interest，2020</font><br />
-<font color=blue>[29]Jiale Qiao, Jindong Zhang*, Yuze Wang, An improved multi-sensor D–S rule for conflict reassignment of failure rate of set，2020</font><br />
-<font color=blue>[30]Jindong Zhang*, Jiabin Xu, Linyao Zhu, Kunpeng Zhang, Tong Liu, Donghui Wang, Xue Wang，An improved Mobile Net-SSD algorithm for automatic defect detection on vehicle body paint，2020</font><br />
-<font color=blue>[31]Jiabin Xu, Jindong Zhang*, Kunpeng Zhang, Tong Liu, Donghui Wang, Xue Wang，An APF-ACO Algorithm for Automatic Defect Detection on Vehicle Paint，2020</font><br />
-<font color=blue>[32]Tong Liu, Jindong Zhang*, Kunpeng Zhang, Jiabin Xu, Donghui Wang, Xue wang，Vehicle-mounted surround vision algorithm based on heterogeneous architecture, 2020</font><br />
-<font color=blue>[33]Yang Liu, Jindong Zhang*, A Multidimensional Chaotic Image Encryption Algorithm based on DNA Coding，2020</font><br />
-<font color=blue>[34]Jindong Zhang, Jiaxin Si, Xuelong Yin, Zhenhai Gao, Young Shik Moon, Jinfeng Gong, Fengmin Tang, Lane departure warning algorithm based on probability statistics of driving habits，2021</font><br />
-<font color=blue>[35]Jindong Zhang*，Tong Liu，Xuelong Yin，Xue Wang，Kunpeng Zhang，Jiabin Xu，Donghui Wang, An improved parking space recognition algorithm based on panoramic vision，2021</font><br />
-<font color=blue>[36]Minglei Hou，Jindong Zhang*，Jinghan Zhang，Boyan Qian，Qiang Gao，Hongze Liu，An unmanned vehicle object recognition algorithm based on LIDAR，2021</font><br />
-<font color=blue>[37]Zehao Zhao，Jindong Zhang*，Peiyuan Hu，Guanwen Qiao，Kaiyuan Li，MES Scheduling System Based on Mixed Inheriance，2021</font><br />
-<font color=blue>[38]Mingxiu Zhang，Jindong Zhang*，Mingzhu Zhu，Wenda Liu，Jiatong Tu，Automotive Dashboard Identification System，2021</font><br />
-<font color=blue>[39]Tianbo Liu, Jindong Zhang*, An improved path planning algorithm based on fuel consumption, The Journal of Supercomputing,2022</font><br />
+
+<font color=blue>[1] Zhang Jindong*, Li Zhijian, MengWeibin, Jiang Haofeng, Liu Qiangqiang, Wan Yanchen， The PID Algorithm for Multi-vehicles Cruise Control in Platoon. Journal of Information & Computational Science, 2015.</font><br />
+<font color=blue>[2] Zhang Jindong， GaoZhenhai， ZhangXiaolong， LiuLiu， XueYang， WuXingchen， LiYahui， The vehicle cooperative adaptive cruise control algorithm for applying to the ramp，Journal of Computational Information Systems，2014.</font><br />
+<font color=blue>[3] Zhang Jindong，Zhao Guanyu，ZhangXiaolong，GPS data reception and parse in real-time: Vehicle-to-vehicle communication system based on OSEK，Journal of Computational Information Systems，2014.</font><br />
+<font color=blue>[4] XueYang，ZhaoGuanyu，ZhangJindong*，Liu Liu，WuXingchen， LiYahui，An acceleration compensation smoothing approach for communicating in DSRC-based CACC system，Journal of Computational InformationSystems，2014.</font><br />
+<font color=blue>[5] Zhang Jindong，QinGuihe，LiuYe，Speech separation in the vehicle environment based on fastICAalgorithm，Journal of Multimedia，2012.</font><br />
+<font color=blue>[6] Zhang Jindong, GaoZhenhai, Lin Qin. Research and Construction on Simulation Traffic Environment with Inter-car Communication. Advanced Materials Research，2011.</font><br />
+<font color=blue>[7] Zhang Jindong, GaoZhenhai. Research and Design the Primary Two Vehicles Communication System. Advanced Materials Research，Vols. 143-144 (2011):328-332.</font><br />
+<font color=blue>[8] Zhang Jindong, Li Hongjian. Research on Vehicle Lane Keeping Driving Secure Technology Based on Canny-Hough Algorithm. Computer Science Applications and Education，2011.</font><br />
+<font color=blue>[9] Peng-cheng Ding, Jin-dong Zhang*, Yang-hao Zhou, Hong-liang LIU, Xiao Wang, Anti-Collision Warning Algorithm Based on Visual Perception in Front of Vehicle, 2017</font><br />
+<font color=blue>[10] Chao Sun, Jindong Zhang*, Jiajia Lin, Rui Song, Xuan Zang, Xiaohan Liu, Design and implementation of Judge System for Old Man Fall Down, 2017</font><br />
+<font color=blue>[11] Jin-qing Li, Jin-dong Zhang*, Wei-kai Wang, Cheng-liang Liu, Hong-yan Guo, Kuo Zhang. Vehicle Automatic Vertical & Horizontal Parking Trajectory Prediction and Fuzzy Control, 2017</font><br />
+<font color=blue>[12] Liu Dongyang, Zhang Jindong*, Zhang Xiaofeng, Ma Xiaoyu, Kou Yuxin, Detection of Glue Spray on Bottom of Vehicle Based on Machine Vision, 2018</font><br />
+<font color=blue>[13] Peibin Wu, Jindong Zhang*, Yang Liu, Dongqi Han, Yiding Sun, The vehicle audio encryption system based on scrambling thought, 2018</font><br />
+<font color=blue>[14] Yang Wang, Jindong Zhang *, Zengming Zhang, Zifan Liu, Yuejia Song, Qipeng Miao, Lane decision algorithm for active avoidance of intelligent vehicle based on improved back propagation neural network, 2018</font><br />
+<font color=blue>[15] Dongqi Han, Jindong Zhang*, Yang Liu, Peibin Wu, Yiding Sun, Live Video Streaming Authentication for Vehicle Multimedia based on Merkle Tree, 2018·</font><br />
+<font color=blue>[16] Xuelong Yin, Jindong Zhang*, Xinggang Wu, Ju Huang, Yanping Xu, Linyao Zhu, An improved lane departure warning algorithm based on fusion of F-Kalman filter and F-TLC, 2019.</font><br />
+<font color=blue>[17] Yuze Wang, Jindong Zhang*, Jiale Qiao, Sai Gao, Chenhui Yu, A Rear-lamp Recognition System Based on D-S Evidence  Theory, 2019</font><br />
+<font color=blue>[18] Jindong Zhang*, Xuelong Yin, Jing Luan, Tong Liu, An improved vehicle panoramic image generation algorithm, 2019</font><br />
+<font color=blue>[19] Jiale Qiao, Jindong Zhang*, Yuze Wang, Chenhui Yu, Sai Gao, A Multi-sensor Fusion System for Embedded Devices  Considering by Sensor Reliability, 2019</font><br />
+<font color=blue>[20] Yuze Wang, Jindong Zhang*, Jiale Qiao, An Information Entropy-based Method of Evidential Source Separation and Refusion，2020</font><br />
+<font color=blue>[21] Hangtian He, Haiyan Wang, Hao Zhang, Qing Liu, Jindong Zhang*, Research on Location Method of Vehicle Trajectory Based on Intelligent Terminal，2020</font><br />
+<font color=blue>[22] Junshu Zhang，Jindong Zhang*，Botao Chen，Jian Gao，Shanwei Ji，Xiaolong Zhang，Zhaodan Wang，A perspective transformation method based on computer vision，2020</font><br />
+<font color=blue>[23] Dongqi Han，Jindong Zhang*，Yang Liu，Peibin Wu，Yiding Sun，Real-time Feedback Watermarking Authentication Scheme for Streaming Media, 2020</font><br />
+<font color=blue>[24] Yang Liu，Jindong Zhang*，Dongqi Han，Peibin Wu，Yiding Sun，Young Shik Moon，A multidimensional chaotic image encryption algorithm based on the region of interest，2020</font><br />
+<font color=blue>[25]Jiale Qiao, Jindong Zhang*, Yuze Wang, An improved multi-sensor D–S rule for conflict reassignment of failure rate of set，2020</font><br />
+<font color=blue>[26]Jindong Zhang*, Jiabin Xu, Linyao Zhu, Kunpeng Zhang, Tong Liu, Donghui Wang, Xue Wang，An improved Mobile Net-SSD algorithm for automatic defect detection on vehicle body paint，2020</font><br />
+<font color=blue>[27]Jiabin Xu, Jindong Zhang*, Kunpeng Zhang, Tong Liu, Donghui Wang, Xue Wang，An APF-ACO Algorithm for Automatic Defect Detection on Vehicle Paint，2020</font><br />
+<font color=blue>[28]Tong Liu, Jindong Zhang*, Kunpeng Zhang, Jiabin Xu, Donghui Wang, Xue wang，Vehicle-mounted surround vision algorithm based on heterogeneous architecture, 2020</font><br />
+<font color=blue>[29]Yang Liu, Jindong Zhang*, A Multidimensional Chaotic Image Encryption Algorithm based on DNA Coding，2020</font><br />
+<font color=blue>[30]Jindong Zhang, Jiaxin Si, Xuelong Yin, Zhenhai Gao, Young Shik Moon, Jinfeng Gong, Fengmin Tang, Lane departure warning algorithm based on probability statistics of driving habits，2021</font><br />
+<font color=blue>[31]Jindong Zhang*，Tong Liu，Xuelong Yin，Xue Wang，Kunpeng Zhang，Jiabin Xu，Donghui Wang, An improved parking space recognition algorithm based on panoramic vision，2021</font><br />
+<font color=blue>[32]Minglei Hou，Jindong Zhang*，Jinghan Zhang，Boyan Qian，Qiang Gao，Hongze Liu，An unmanned vehicle object recognition algorithm based on LIDAR，2021</font><br />
+<font color=blue>[33]Zehao Zhao，Jindong Zhang*，Peiyuan Hu，Guanwen Qiao，Kaiyuan Li，MES Scheduling System Based on Mixed Inheriance，2021</font><br />
+<font color=blue>[34]Mingxiu Zhang，Jindong Zhang*，Mingzhu Zhu，Wenda Liu，Jiatong Tu，Automotive Dashboard Identification System，2021</font><br />
+<font color=blue>[35]Tianbo Liu, Jindong Zhang*, An improved path planning algorithm based on fuel consumption, The Journal of Supercomputing,2022</font><br />
+<font color=blue>[36] Jindong Zhang*, Dongyu Pan, Kunpeng Zhang, Jingyi Jin, Yuanzhi Ma and Mai Chen, Underwater single image restoration based on modified Generative Adversarial Net, Signal, Image and Video Processing，2023</font><br />
+<font color=blue>[37] Mayuan Zhi, Zhang Jindong*, Qin Guihe, 3D Multi-Object Tracking based on Dual-tracker and D-S Evidence Theory, IEEE Transactions on Intelligent Vehicles,2023</font><br />
+<font color=blue>[38] Zhang Jindong*, Zhong Haoting, Curve-based lane estimation model with lightweight attention mechanism, Signal, Image and Video Processing,2023</font><br />
+<font color=blue>[39] Zhang Jindong*, Xiu Ying. Image stitching based on human visual system and SIFT algorithm, The Visual Computer,2023</font><br />
 
 
 著作教材：
