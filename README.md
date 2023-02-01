@@ -18,31 +18,31 @@
 
 工作经历：
 
-<font color=blue>[1]现为，吉林大学计算机科学与技术学院，副教授，博士生导师</font><br />
-<font color=blue>[2]现为，中国汽车技术研究中心工程院，特聘专家</font><br />
-<font color=blue>[3]现为，电动汽车产业技术创新战略联盟，汽车电子电气架构工作组委员</font><br />
-<font color=blue>[4]现为，中国计算机学会会员，ACM会员，中国汽车工程学会会员</font><br />
-<font color=blue>[5]现为，吉林省特色高水平学科首席负责人</font><br />
-<font color=blue>[6]2009–至今，吉林大学汽车电子控制关键技术创新团队，成员</font><br />
-<font color=blue>[7]2017-2018，Korea，Hanyang University，Visiting Professor</font><br />
-<font color=blue>[8]2010-2012，吉林大学汽车仿真与控制国家重点实验室，博士后</font><br />
-<font color=blue>[9]2003-2009，吉林大学计算机科学与技术学院，硕士、博士</font><br />
+<font color=blue>[1] 现为，吉林大学计算机科学与技术学院，副教授，博士生导师</font><br />
+<font color=blue>[2] 现为，中国汽车技术研究中心工程院，特聘专家</font><br />
+<font color=blue>[3] 现为，电动汽车产业技术创新战略联盟，汽车电子电气架构工作组委员</font><br />
+<font color=blue>[4] 现为，中国计算机学会会员，ACM会员，中国汽车工程学会会员</font><br />
+<font color=blue>[5] 现为，吉林省特色高水平学科首席负责人</font><br />
+<font color=blue>[6] 2009–至今，吉林大学汽车电子控制关键技术创新团队，成员</font><br />
+<font color=blue>[7] 2017-2018，Korea，Hanyang University，Visiting Professor</font><br />
+<font color=blue>[8] 2010-2012，吉林大学汽车仿真与控制国家重点实验室，博士后</font><br />
+<font color=blue>[9] 2003-2009，吉林大学计算机科学与技术学院，硕士、博士</font><br />
 
 
 科研项目:
 
-<font color=blue>[1]国家重点研发计划2017年度项目之“新能源汽车”专项（智能电动汽车电子电气架构研发-异构开放嵌入式软件平台研究-跨平台多源信息标准软件接口设计研究，负责人（嵌入式实时Linux与AUTOSAR OS的跨平台开发实现系统；基于AUTOSAR的电动汽车传感器信号处理组件接口设计方法）</font><br />
-<font color=blue>[2]基于机器学习的汽车协同式自适应巡航控制机理研究，国家自然基金项目，负责人</font><br />
-<font color=blue>[3]图像信息分类识别研究，中国第一汽车集团项目，负责人</font><br />
-<font color=blue>[4]多车协调编队形式的动态路径规划方法研究，中央高校专项项目，负责人</font><br />
-<font color=blue>[5]视觉计算的汽车行驶环境动态感知识别方法研究，吉林省基金项目，负责人</font><br />
-<font color=blue>[6]基于华为MDC300F平台的激光雷达信号处理软件，负责人</font><br />
-<font color=blue>[7]汽车A柱透视化可视软件，负责人</font><br />
-<font color=blue>[8]可内嵌MES的先进计划排程APS软件，负责人</font><br />
-<font color=blue>[9]5G网络下的汽车远程遥控驾驶关键技术研发，负责人</font><br />
-<font color=blue>[10]A柱端整车盲区可视化系统，负责人</font><br />
-<font color=blue>[11]基于深度摄像头的活体和人脸检测算法技术研发与应用，负责人</font><br />
-<font color=blue>[12]基于多路摄像头的汽车全景可视化软件，负责人</font><br />
+<font color=blue>[1] 国家重点研发计划2017年度项目之“新能源汽车”专项（智能电动汽车电子电气架构研发-异构开放嵌入式软件平台研究-跨平台多源信息标准软件接口设计研究，负责人（嵌入式实时Linux与AUTOSAR OS的跨平台开发实现系统；基于AUTOSAR的电动汽车传感器信号处理组件接口设计方法）</font><br />
+<font color=blue>[2] 基于机器学习的汽车协同式自适应巡航控制机理研究，国家自然基金项目，负责人</font><br />
+<font color=blue>[3] 图像信息分类识别研究，中国第一汽车集团项目，负责人</font><br />
+<font color=blue>[4] 多车协调编队形式的动态路径规划方法研究，中央高校专项项目，负责人</font><br />
+<font color=blue>[5] 视觉计算的汽车行驶环境动态感知识别方法研究，吉林省基金项目，负责人</font><br />
+<font color=blue>[6] 基于华为MDC300F平台的激光雷达信号处理软件，负责人</font><br />
+<font color=blue>[7] 汽车A柱透视化可视软件，负责人</font><br />
+<font color=blue>[8] 可内嵌MES的先进计划排程APS软件，负责人</font><br />
+<font color=blue>[9] 5G网络下的汽车远程遥控驾驶关键技术研发，负责人</font><br />
+<font color=blue>[10] A柱端整车盲区可视化系统，负责人</font><br />
+<font color=blue>[11] 基于深度摄像头的活体和人脸检测算法技术研发与应用，负责人</font><br />
+<font color=blue>[12] 基于多路摄像头的汽车全景可视化软件，负责人</font><br />
 
 
 学术论文：
@@ -73,17 +73,17 @@
 <font color=blue>[22] Junshu Zhang，Jindong Zhang*，Botao Chen，Jian Gao，Shanwei Ji，Xiaolong Zhang，Zhaodan Wang，A perspective transformation method based on computer vision，2020</font><br />
 <font color=blue>[23] Dongqi Han，Jindong Zhang*，Yang Liu，Peibin Wu，Yiding Sun，Real-time Feedback Watermarking Authentication Scheme for Streaming Media, 2020</font><br />
 <font color=blue>[24] Yang Liu，Jindong Zhang*，Dongqi Han，Peibin Wu，Yiding Sun，Young Shik Moon，A multidimensional chaotic image encryption algorithm based on the region of interest，2020</font><br />
-<font color=blue>[25]Jiale Qiao, Jindong Zhang*, Yuze Wang, An improved multi-sensor D–S rule for conflict reassignment of failure rate of set，2020</font><br />
-<font color=blue>[26]Jindong Zhang*, Jiabin Xu, Linyao Zhu, Kunpeng Zhang, Tong Liu, Donghui Wang, Xue Wang，An improved Mobile Net-SSD algorithm for automatic defect detection on vehicle body paint，2020</font><br />
-<font color=blue>[27]Jiabin Xu, Jindong Zhang*, Kunpeng Zhang, Tong Liu, Donghui Wang, Xue Wang，An APF-ACO Algorithm for Automatic Defect Detection on Vehicle Paint，2020</font><br />
-<font color=blue>[28]Tong Liu, Jindong Zhang*, Kunpeng Zhang, Jiabin Xu, Donghui Wang, Xue wang，Vehicle-mounted surround vision algorithm based on heterogeneous architecture, 2020</font><br />
-<font color=blue>[29]Yang Liu, Jindong Zhang*, A Multidimensional Chaotic Image Encryption Algorithm based on DNA Coding，2020</font><br />
-<font color=blue>[30]Jindong Zhang, Jiaxin Si, Xuelong Yin, Zhenhai Gao, Young Shik Moon, Jinfeng Gong, Fengmin Tang, Lane departure warning algorithm based on probability statistics of driving habits，2021</font><br />
-<font color=blue>[31]Jindong Zhang*，Tong Liu，Xuelong Yin，Xue Wang，Kunpeng Zhang，Jiabin Xu，Donghui Wang, An improved parking space recognition algorithm based on panoramic vision，2021</font><br />
-<font color=blue>[32]Minglei Hou，Jindong Zhang*，Jinghan Zhang，Boyan Qian，Qiang Gao，Hongze Liu，An unmanned vehicle object recognition algorithm based on LIDAR，2021</font><br />
-<font color=blue>[33]Zehao Zhao，Jindong Zhang*，Peiyuan Hu，Guanwen Qiao，Kaiyuan Li，MES Scheduling System Based on Mixed Inheriance，2021</font><br />
-<font color=blue>[34]Mingxiu Zhang，Jindong Zhang*，Mingzhu Zhu，Wenda Liu，Jiatong Tu，Automotive Dashboard Identification System，2021</font><br />
-<font color=blue>[35]Tianbo Liu, Jindong Zhang*, An improved path planning algorithm based on fuel consumption, The Journal of Supercomputing,2022</font><br />
+<font color=blue>[25] Jiale Qiao, Jindong Zhang*, Yuze Wang, An improved multi-sensor D–S rule for conflict reassignment of failure rate of set，2020</font><br />
+<font color=blue>[26] Jindong Zhang*, Jiabin Xu, Linyao Zhu, Kunpeng Zhang, Tong Liu, Donghui Wang, Xue Wang，An improved Mobile Net-SSD algorithm for automatic defect detection on vehicle body paint，2020</font><br />
+<font color=blue>[27] Jiabin Xu, Jindong Zhang*, Kunpeng Zhang, Tong Liu, Donghui Wang, Xue Wang，An APF-ACO Algorithm for Automatic Defect Detection on Vehicle Paint，2020</font><br />
+<font color=blue>[28] Tong Liu, Jindong Zhang*, Kunpeng Zhang, Jiabin Xu, Donghui Wang, Xue wang，Vehicle-mounted surround vision algorithm based on heterogeneous architecture, 2020</font><br />
+<font color=blue>[29] Yang Liu, Jindong Zhang*, A Multidimensional Chaotic Image Encryption Algorithm based on DNA Coding，2020</font><br />
+<font color=blue>[30] Jindong Zhang, Jiaxin Si, Xuelong Yin, Zhenhai Gao, Young Shik Moon, Jinfeng Gong, Fengmin Tang, Lane departure warning algorithm based on probability statistics of driving habits，2021</font><br />
+<font color=blue>[31] Jindong Zhang*，Tong Liu，Xuelong Yin，Xue Wang，Kunpeng Zhang，Jiabin Xu，Donghui Wang, An improved parking space recognition algorithm based on panoramic vision，2021</font><br />
+<font color=blue>[32] Minglei Hou，Jindong Zhang*，Jinghan Zhang，Boyan Qian，Qiang Gao，Hongze Liu，An unmanned vehicle object recognition algorithm based on LIDAR，2021</font><br />
+<font color=blue>[33] Zehao Zhao，Jindong Zhang*，Peiyuan Hu，Guanwen Qiao，Kaiyuan Li，MES Scheduling System Based on Mixed Inheriance，2021</font><br />
+<font color=blue>[34] Mingxiu Zhang，Jindong Zhang*，Mingzhu Zhu，Wenda Liu，Jiatong Tu，Automotive Dashboard Identification System，2021</font><br />
+<font color=blue>[35] Tianbo Liu, Jindong Zhang*, An improved path planning algorithm based on fuel consumption, The Journal of Supercomputing,2022</font><br />
 <font color=blue>[36] Jindong Zhang*, Dongyu Pan, Kunpeng Zhang, Jingyi Jin, Yuanzhi Ma and Mai Chen, Underwater single image restoration based on modified Generative Adversarial Net, Signal, Image and Video Processing，2023</font><br />
 <font color=blue>[37] Mayuan Zhi, Zhang Jindong*, Qin Guihe, 3D Multi-Object Tracking based on Dual-tracker and D-S Evidence Theory, IEEE Transactions on Intelligent Vehicles,2023</font><br />
 <font color=blue>[38] Zhang Jindong*, Zhong Haoting, Curve-based lane estimation model with lightweight attention mechanism, Signal, Image and Video Processing,2023</font><br />
@@ -148,9 +148,9 @@
 
 吉林大学优秀学位论文：
 
-<font color=blue>[1]2019年：尹雪龙《基于全景视觉的汽车驾驶辅助技术研究》</font><br />
-<font color=blue>[2]2021年：刘通《车载环视算法的泊车辅助系统的研究与实现》</font><br />
-<font color=blue>[3]2021年：徐嘉斌《基于进化算法的车漆缺陷检测方法研究》</font><br />
+<font color=blue>[1] 2019年：尹雪龙《基于全景视觉的汽车驾驶辅助技术研究》</font><br />
+<font color=blue>[2] 2021年：刘通《车载环视算法的泊车辅助系统的研究与实现》</font><br />
+<font color=blue>[3] 2021年：徐嘉斌《基于进化算法的车漆缺陷检测方法研究》</font><br />
 
 
 社会兼职：
