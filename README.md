@@ -11,6 +11,7 @@
 
 <font color=blue>计算机应用技术</font><br />
 
+
 研究方向:
 
 <font color=blue>嵌入式系统，机器视觉，机器学习，及其在无人驾驶汽车、工业等领域的应用</font><br />
@@ -21,16 +22,18 @@
 <font color=blue>嵌入式系统与结构、嵌入式Linux系统分析与应用、传感器技术、微机技术及应用、汽车电子软件编程技术</font><br />
 
 
-
 工作经历：
 
 <font color=blue>现为，吉林大学计算机科学与技术学院，副教授，博士生导师</font><br />
 <font color=blue>现为，中国汽车技术研究中心工程院，特聘专家</font><br />
 <font color=blue>现为，电动汽车产业技术创新战略联盟，汽车电子电气架构工作组委员</font><br />
+<font color=blue>现为，中国计算机学会会员，ACM会员，中国汽车工程学会会员</font><br />
+<font color=blue>现为，吉林省特色高水平学科首席负责人</font><br />
 <font color=blue>2009–至今，吉林大学汽车电子控制关键技术创新团队，成员</font><br />
 <font color=blue>2017-2018，Korea，Hanyang University，Visiting Professor</font><br />
 <font color=blue>2010-2012，吉林大学汽车仿真与控制国家重点实验室，博士后</font><br />
 <font color=blue>2003-2009，吉林大学计算机科学与技术学院，硕士、博士</font><br />
+
 
 科研项目:
 
@@ -45,14 +48,16 @@
 <font color=blue>[9]5G网络下的汽车远程遥控驾驶关键技术研发，负责人</font><br />
 <font color=blue>[10]A柱端整车盲区可视化系统，负责人</font><br />
 <font color=blue>[11]基于深度摄像头的活体和人脸检测算法技术研发与应用，负责人</font><br />
+<font color=blue>[12]基于多路摄像头的汽车全景可视化软件，负责人</font><br />
+
 
 学术论文：
 
 <font color=blue>国外期刊和国际学术会议上近期发表论文：</font><br />
-<font color=blue>[1] Zhang Jindong, Feng Yujie, Shi Feifei, Wang Gang, Ma Bin, Li Ruisheng. Vehicle routing in urban areas based on the OCW-Dijkstra algorithm, IET Intelligent Transport Systems, 2016</font><br />
-<font color=blue>[2] Zhang Jindong, Li Jinfeng. Integration of scanning and image processing algorithms for lane detection based on fuzzy method，Journal of Intelligent & Fuzzy Systems，2015</font><br />
-<font color=blue>[3] Zhang Jindong*, Meng Weibin, Liu QiangQiang, Jiang Haofeng, Feng Yujie，Wang Gang. Efficient Vehicles Path Planning Algorithm Based on Taxi GPS Big Data，International Journal for Light and Electron Optics，2016</font><br />
-<font color=blue>[4] Zhang Jindong*, Zhou Zhizong A Pre-compensation Control Algorithm for Vehicle Platoon Stability Problem，International Journal for Light and Electron Optics，2015</font><br />
+<font color=blue>[1] Zhang Jindong*, Xiu Ying. Image stitching based on human visual system and SIFT algorithm, The Visual Computer,2023</font><br />
+<font color=blue>[2] Zhang Jindong*, Zhong Haoting, Curve-based lane estimation model with lightweight attention mechanism, Signal, Image and Video Processing,2023</font><br />
+<font color=blue>[3] Mayuan Zhi, Zhang Jindong*, Qin Guihe, 3D Multi-Object Tracking based on Dual-tracker and D-S Evidence Theory, IEEE Transactions on Intelligent Vehicles,2023</font><br />
+<font color=blue>[4] Jindong Zhang*, Dongyu Pan, Kunpeng Zhang, Jingyi Jin, Yuanzhi Ma and Mai Chen, Underwater single image restoration based on modified Generative Adversarial Net, Signal, Image and Video Processing，2023</font><br />
 <font color=blue>[5] Zhang Jindong*, Li Zhijian, MengWeibin, Jiang Haofeng, Liu Qiangqiang, Wan Yanchen， The PID Algorithm for Multi-vehicles Cruise Control in Platoon. Journal of Information & Computational Science, 2015.</font><br />
 <font color=blue>[6] Zhang Jindong， GaoZhenhai， ZhangXiaolong， LiuLiu， XueYang， WuXingchen， LiYahui， The vehicle cooperative adaptive cruise control algorithm for applying to the ramp，Journal of Computational Information Systems，2014.</font><br />
 <font color=blue>[7] Zhang Jindong，Zhao Guanyu，ZhangXiaolong，GPS data reception and parse in real-time: Vehicle-to-vehicle communication system based on OSEK，Journal of Computational Information Systems，2014.</font><br />
@@ -87,12 +92,15 @@
 <font color=blue>[36]Minglei Hou，Jindong Zhang*，Jinghan Zhang，Boyan Qian，Qiang Gao，Hongze Liu，An unmanned vehicle object recognition algorithm based on LIDAR，2021</font><br />
 <font color=blue>[37]Zehao Zhao，Jindong Zhang*，Peiyuan Hu，Guanwen Qiao，Kaiyuan Li，MES Scheduling System Based on Mixed Inheriance，2021</font><br />
 <font color=blue>[38]Mingxiu Zhang，Jindong Zhang*，Mingzhu Zhu，Wenda Liu，Jiatong Tu，Automotive Dashboard Identification System，2021</font><br />
+<font color=blue>[39]Tianbo Liu, Jindong Zhang*, An improved path planning algorithm based on fuel consumption, The Journal of Supercomputing,2022</font><br />
+
 
 著作教材：
 
 <font color=blue>[1]《汽车软件开放式系统架构》</font><br />
 <font color=blue>[2]《工业互联网—AI、大数据、人机交互与生态系统》</font><br />
 <font color=blue>[3]《工业互联网—系统建模、架构、通信与网络》</font><br />
+
 
 获奖情况：
 
@@ -103,6 +111,7 @@
 </font><br />
 <font color=blue>[3] 车联网的可信数据通信与应用服务关键技术及应用，科学技术奖，一等奖，2013
 </font><br />
+
 
 发明专利：
 
@@ -141,11 +150,13 @@
 <font color=blue>[33] 一种汽车前视双侧盲区增强显示方法</font><br />
 <font color=blue>[34] 一种自适应的双目相机标定方法</font><br />
 
+
 吉林大学优秀学位论文：
 
 <font color=blue>[1]2019年：尹雪龙《基于全景视觉的汽车驾驶辅助技术研究》</font><br />
 <font color=blue>[2]2021年：刘通《车载环视算法的泊车辅助系统的研究与实现》</font><br />
 <font color=blue>[3]2021年：徐嘉斌《基于进化算法的车漆缺陷检测方法研究》</font><br />
+
 
 社会兼职：
 
