@@ -7,10 +7,10 @@
 </div>
 
 
-学科专业:<font color=blue>计算机应用技术</font><br />
+学科专业: <font color=blue>计算机应用技术</font><br />
 
 
-研究方向:<font color=blue>嵌入式系统，机器视觉，机器学习，及其在无人驾驶汽车、工业等领域的应用</font><br />
+研究方向: <font color=blue>嵌入式系统，机器视觉，机器学习，及其在无人驾驶汽车、工业等领域的应用</font><br />
 
 
 讲授课程：<font color=blue>嵌入式系统与结构、嵌入式Linux系统分析与应用、传感器技术、微机技术及应用、汽车电子软件编程技术</font><br />
@@ -18,15 +18,15 @@
 
 工作经历：
 
-<font color=blue>现为，吉林大学计算机科学与技术学院，副教授，博士生导师</font><br />
-<font color=blue>现为，中国汽车技术研究中心工程院，特聘专家</font><br />
-<font color=blue>现为，电动汽车产业技术创新战略联盟，汽车电子电气架构工作组委员</font><br />
-<font color=blue>现为，中国计算机学会会员，ACM会员，中国汽车工程学会会员</font><br />
-<font color=blue>现为，吉林省特色高水平学科首席负责人</font><br />
-<font color=blue>2009–至今，吉林大学汽车电子控制关键技术创新团队，成员</font><br />
-<font color=blue>2017-2018，Korea，Hanyang University，Visiting Professor</font><br />
-<font color=blue>2010-2012，吉林大学汽车仿真与控制国家重点实验室，博士后</font><br />
-<font color=blue>2003-2009，吉林大学计算机科学与技术学院，硕士、博士</font><br />
+<font color=blue>[1]现为，吉林大学计算机科学与技术学院，副教授，博士生导师</font><br />
+<font color=blue>[2]现为，中国汽车技术研究中心工程院，特聘专家</font><br />
+<font color=blue>[3]现为，电动汽车产业技术创新战略联盟，汽车电子电气架构工作组委员</font><br />
+<font color=blue>[4]现为，中国计算机学会会员，ACM会员，中国汽车工程学会会员</font><br />
+<font color=blue>[5]现为，吉林省特色高水平学科首席负责人</font><br />
+<font color=blue>[6]2009–至今，吉林大学汽车电子控制关键技术创新团队，成员</font><br />
+<font color=blue>[7]2017-2018，Korea，Hanyang University，Visiting Professor</font><br />
+<font color=blue>[8]2010-2012，吉林大学汽车仿真与控制国家重点实验室，博士后</font><br />
+<font color=blue>[9]2003-2009，吉林大学计算机科学与技术学院，硕士、博士</font><br />
 
 
 科研项目:
