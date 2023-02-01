@@ -45,9 +45,7 @@
 <font color=blue>[12] 基于多路摄像头的汽车全景可视化软件，负责人</font><br />
 
 
-学术论文：
-
-<font color=blue>国外期刊和国际学术会议上近期发表论文：</font><br />
+<font color=blue>近期发表学术论文：</font><br />
 
 <font color=blue>[1] Zhang Jindong*, Li Zhijian, MengWeibin, Jiang Haofeng, Liu Qiangqiang, Wan Yanchen， The PID Algorithm for Multi-vehicles Cruise Control in Platoon. Journal of Information & Computational Science, 2015.</font><br />
 <font color=blue>[2] Zhang Jindong， GaoZhenhai， ZhangXiaolong， LiuLiu， XueYang， WuXingchen， LiYahui， The vehicle cooperative adaptive cruise control algorithm for applying to the ramp，Journal of Computational Information Systems，2014.</font><br />
